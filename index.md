@@ -9,7 +9,7 @@ If you choose to use our Service, then you agree to the collection and use of in
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at https://instagram.com/orbits_app?igshid=7hdrarotqr0e, unless otherwise defined in this Privacy Policy.
 
 Information Collection and Use
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, related to your name and your relatives name, your writings, and your voice recording. The collected information will be retained in your device only and we will not collect any data from you.
+For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, related to your name and your relatives name, your writings, and your audio recording. The collected information will be retained in your device only and we will not collect any data from you. The app can play audible content from the audio recordings you’ve recorded, even if this app is in the background.
 
 Log Data
 This app does not collect and store any log.
